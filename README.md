@@ -1,6 +1,7 @@
 𝗦𝗸𝗶𝗹𝗹𝘀 : Java 11+, Spring boot Framework, Microservices, Restful Apis, IntelliJ, AWS Lambda, MongoDB, Elasticsearch, Swagger, OpenAPI, AWS s3 Apis, Kafka, GridFSTemplate, Kibana
 Distributed systems engineering
 • Working on cloud-native highly distributed event driven services/systems
+
 • Implemented Fabric Offline analysis job retrieval based on epochs Ids to determine last run time of online/offline site
 • Co-Authored AWS s3 bucket operations for multipart file uploads/download/delete to s3 bucket with retry attempts
 • Implemented onboarding  of NDFC site (fabric) on NDI based on Kafka notification, downstream events based on streaming and notification
